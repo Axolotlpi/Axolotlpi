@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Axolotlpi
+- 👀 I’m interested in ESP32, IoT
+- 🌱 I’m currently learning Java, Web dev, C
+- 💞️ I’m looking to collaborate on anything IoT
+- 📫 cfc3.1415@gmail.com

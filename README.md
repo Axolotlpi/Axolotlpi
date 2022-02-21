@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Axolotlpi
-- 👀 I’m interested in ESP32, IoT
-- 🌱 I’m currently learning Java, Web dev, C
-- 💞️ I’m looking to collaborate on anything IoT
+- 🛠️ I'm currently using Svelte, Astro, React, Tailwind
+- 👀 I’m interested in ESP32, IoT, web dev
+- 🌱 I’m currently learning Rust, NextJS
+- 💞️ I’m looking to collaborate on IoT and Web Dev
 - 📫 cfc3.1415@gmail.com
